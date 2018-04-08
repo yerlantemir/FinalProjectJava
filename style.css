@@ -1,0 +1,13 @@
+.root{
+    -fx-background-image:url("doodlerLa.gif");
+    -fx-background-size: 330 460;
+}
+.button{
+    -fx-background-color:Transparent;
+    -fx-border-radius:30px;
+    -fx-background-radius:100px;
+}
+.button:hover{
+    -fx-background-color:red;
+    -fx-opacity:0.12;
+}
